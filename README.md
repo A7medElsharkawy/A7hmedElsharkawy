@@ -1,19 +1,19 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Sayed%20Gamal&fontSize=70&fontAlign=70&fontAlignY=40&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Problem%20Solver&descAlign=70&descAlignY=55" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Ahmed%20Ibrahim&fontSize=70&fontAlign=70&fontAlignY=40&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Problem%20Solver&descAlign=70&descAlignY=55" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=🤖+AI+Engineer+%40+Noursoft;🎓+Computer+Engineering+Graduate;🚀+Building+Intelligent+Systems;🌟+Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=🤖+MSc+%40+Uleth" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sayed-gamall">
+  <a href="https://www.linkedin.com/in/elsharkawyahmed/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:sayedgamall@outlook.com">
+  <a href="mailto:ahmedelsharkawy3011@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://coff.ee/sayedgamal">
+  <a href="https://buymeacoffee.com/ahmed_ibrahim">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
   <!-- <img src="https://komarev.com/ghpvc/?username=sayedgamal99&style=for-the-badge&color=blueviolet" alt="Profile Views" /> enable it later when views overrides 300-->
@@ -24,16 +24,15 @@
 ## 🚀 About Me
 
 ```yaml
-name: Sayed Gamal
-location: Cairo, Egypt
-current_role: AI Engineer @ Noursoft
-education: Computer Engineering - Mansoura University
+name: Ahmed Ibrahim(Elsharkawy)
+location: Calgary,AB,Canada
+current_role: ex @Huawei, Msc At Uleth
 passion:
   [
     "Artificial Intelligence",
     "Machine Learning",
     "Problem Solving",
-    "Innovation",
+    "entrepreneurship",
   ]
 current_focus:
   ["LLM Applications", "Computer Vision", "MLOps", "System Architecture"]
@@ -43,7 +42,7 @@ fun_fact: "I've solved 450+ coding problems and led teams of 200+ participants!"
 I'm passionate about creating intelligent systems that make a real difference. With hands-on experience in AI and machine learning, I love turning complex problems into practical solutions. and I always start by understanding the problem deeply before building. This mindset helps me deliver results that truly matter.
 
 ---
-
+<!--
 ## Featured Projects
 
 <table>
@@ -107,7 +106,7 @@ I'm passionate about creating intelligent systems that make a real difference. W
   </a>
 </div>
 
----
+--->
 
 ## Technology
 
@@ -137,11 +136,9 @@ I'm passionate about creating intelligent systems that make a real difference. W
   <a href="https://vllm.ai" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/vllm-color.png" width="50" height="50" alt="vLLM" /></a>
   <a href="https://ollama.com" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/ollama.png" width="50" height="50" alt="Ollama" /></a>
   <a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI" /></a>
-  <a href="https://flask.palletsprojects.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="50" height="50" alt="Flask" /></a>
   <a href="https://streamlit.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="50" height="50" alt="Streamlit" /></a>
   <a href="https://gradio.app" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/gradio-color.png" width="50" height="50" alt="Gradio" /></a>
   <a href="https://www.postman.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" height="50" alt="Postman" /></a>
-  <a href="https://n8n.io" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/n8n-color.png" width="50" height="50" alt="n8n" /></a>
 </div>
 
 <div align="center">
@@ -159,23 +156,20 @@ I'm passionate about creating intelligent systems that make a real difference. W
   <a href="https://github.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub" /></a>
   <a href="https://www.linux.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" /></a>
   <a href="https://jupyter.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" /></a>
 </div>
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=sayedgamal99&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=A7medElsharkawy&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" />
 </div>
-
+<!--
 <div align="center">
-  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayedgamal99&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=A7medElsharkawy&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
-
+--->
 <div align="center">
-  <img width="65%" src="https://github-readme-activity-graph.vercel.app/graph?username=sayedgamal99&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=false" alt="Contribution Graph" />
+  <img width="65%" src="https://github-readme-activity-graph.vercel.app/graph?username=A7medElsharkawy&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=false" alt="Contribution Graph" />
 </div>
 
 ---
@@ -184,7 +178,7 @@ I'm passionate about creating intelligent systems that make a real difference. W
 <div align="center">
   <p><strong>Ready to turn ideas into reality? Let's connect and create something extraordinary!</strong></p>
 
-  <img src="https://komarev.com/ghpvc/?username=sayedgamal99&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=A7medElsharkawy&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
   <br><br>
 
