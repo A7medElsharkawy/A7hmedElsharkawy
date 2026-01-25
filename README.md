@@ -26,7 +26,7 @@
 ```yaml
 name: Ahmed Ibrahim(Elsharkawy)
 location: Calgary,AB,Canada
-current_role: ex @Huawei, Msc At Uleth
+current_role: ex @Huawei, Msc @ Uleth
 passion:
   [
     "Artificial Intelligence",
